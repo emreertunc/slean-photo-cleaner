@@ -36,9 +36,7 @@
 
 ## Privacy
 
-Sorting, scanning, duplicate and similar-photo detection, filtering and compression run on the device. Your library is not uploaded for these features. There is no account, no sign-in, no ads and no advertising SDKs.
-
-The optional AI photo editor is the one exception: it needs to send the photo you choose to edit to an AI service. Everything else stays local.
+Your photo library never leaves your phone. Sorting, scanning, duplicate and similar-photo detection, filtering and compression all run on the device. There is no account, no sign-in, no ads and no advertising SDKs.
 
 Privacy policy: [slean.app/privacy-policy](https://slean.app/privacy-policy)
 
@@ -53,7 +51,7 @@ Privacy policy: [slean.app/privacy-policy](https://slean.app/privacy-policy)
 - Android 8.0 or later. Native, built with Kotlin and Jetpack Compose.
 - 14 languages in the app.
 
-Free to install on the App Store and Google Play.
+Free on the App Store and Google Play.
 
 ## Learn more
 
